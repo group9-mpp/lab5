@@ -1,11 +1,11 @@
 package lab5prob2;
 
-public final class Tringle implements Figure {
+public final class Triangle implements Figure {
 
 	private final double base;
 	private final double height;
 	
-	public Tringle(double base, double height) {
+	public Triangle(double base, double height) {
 		this.base = base;
 		this.height = height;
 	}
