@@ -6,7 +6,7 @@ public class Main {
 		
 		Figure[] figures =  {
 				new Rectangle(3.5, 5),
-				new Tringle(4, 10),
+				new Triangle(4, 10),
 				new Circle(7),
 				
 		};
