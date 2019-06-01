@@ -20,7 +20,7 @@ public final class Rectangle implements Figure {
 
 	@Override
 	public double computeArea() {
-		// TODO Auto-generated method stub
+		
 		return  width * length;
 	}
 

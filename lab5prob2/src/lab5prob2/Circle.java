@@ -6,7 +6,6 @@ public final class Circle implements Figure {
 	
 	
 	public Circle(double radius) {
-		super();
 		this.radius = radius;
 	}
 
@@ -18,7 +17,7 @@ public final class Circle implements Figure {
 
 	@Override
 	public double computeArea() {
-		// TODO Auto-generated method stub
+	
 		return  Math.PI * radius * radius ;
 	}
 
